@@ -1,0 +1,9 @@
+[
+    {
+        "uri": "/users",
+        "method": "GET",
+        "headers": {
+            "User-agent": "Request-Promise"
+        }
+    }
+]
